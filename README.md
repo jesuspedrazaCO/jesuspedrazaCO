@@ -1,4 +1,6 @@
-👋 Hi, I'm Jesus David Pedraza
+                                                      👋 Hi, I'm Jesus David Pedraza
+
+                                                                About me👨‍💻
 
 - 💻I'm a Software Engineering student and passionate about high-performance sports
 
