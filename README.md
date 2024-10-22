@@ -14,6 +14,8 @@ Let's turn ideas into powerful realities and help others discover their own path
 
 📚I am currently finishing my studies at the University of Santander UDES
 
+📫How to reach me:jesuspedraza.co@gmail.com
+
 <!---
 jesuspedrazaCO/jesuspedrazaCO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
