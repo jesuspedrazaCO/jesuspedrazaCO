@@ -2,7 +2,7 @@
 
                                                                 About me👨‍💻
 
-- I'm a Software Engineering student and passionate about high-performance sports
+- I'm a Software Engineering and passionate about high-performance sports
 
 Fluent in Spanish, English B1
 
@@ -11,8 +11,6 @@ The best ideas often emerge in the least expected moments, transforming the ordi
 Let's turn ideas into powerful realities and help others discover their own path to innovation. 🌟
 
 -  I am currently learning how to use AWS and deepening my knowledge in TypeScript and JavaScript
-
-I am currently finishing my studies at the University of Santander UDES
 
 How to reach me: jesuspedraza.co@gmail.com
 
